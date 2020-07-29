@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>293500991505-akgg1gd6k91atbbo1asrnbtu1s190o29.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.293500991505-akgg1gd6k91atbbo1asrnbtu1s190o29</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCK0ZU6OTGIYjfDakPB19XPMLDaoHSK8fc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>293500991505</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.qrlisttracker</string>
+	<key>PROJECT_ID</key>
+	<string>fluttertrial2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fluttertrial2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:293500991505:ios:c37e8c60b1a05e546cd9b0</string>
+	<key>DATABASE_URL</key>
+	<string>https://fluttertrial2.firebaseio.com</string>
+</dict>
+</plist>

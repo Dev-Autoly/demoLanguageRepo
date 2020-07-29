@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "293500991505",
+    "firebase_url": "https://fluttertrial2.firebaseio.com",
+    "project_id": "fluttertrial2",
+    "storage_bucket": "fluttertrial2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293500991505:android:6b77ee9af2a025716cd9b0",
+        "android_client_info": {
+          "package_name": "com.example.qrlisttracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293500991505-l1j1u61e68arqdb2fi0dhffmm29vnl26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEWAkZtAEq76yr_NAK9WcSkVToYpTWaYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293500991505-l1j1u61e68arqdb2fi0dhffmm29vnl26.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "293500991505-akgg1gd6k91atbbo1asrnbtu1s190o29.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.qrlisttracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+{
+  "tagness": "Tagness",
+  "language_name": "عربى",
+  "sign_in": "تسجيل الدخول",
+  "create_an_account" : "انشئ حساب",
+  "enter_email": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك",
+  "enter_password" : "ادخل رقمك السري",
+  "enter_name" : "الرجاء إدخال اسم.",
+  "add_transaction": "إضافة عملية",
+  "new_item": "عنصر جديد؟",
+  "details": "تفاصيل",
+  "price": "السعر $",
+  "english": "الإنجليزية",
+  "arabic": "عربى",
+  "french": "فرنسي",
+  "hindi": "الهندية",
+  "farsi": "الفارسية",
+  "dark_mode": "الوضع المظلم",
+  "light_mode": "وضع الضوء",
+  "new_item_form_error": "البند لا يمكن أن تكون فارغة!",
+  "details_form_error": "تفاصيل لا يمكن أن تكون فارغة!",
+  "price_form_error": "السعر لا يمكن أن يكون فارغا!"
+}
+

@@ -1,0 +1,24 @@
+{
+  "tagness": "Tagness",
+  "language_name": "English",
+  "sign_in": "Sign In",
+  "create_an_account" : "Create an Account",
+  "enter_email": "Please enter your email address",
+  "enter_password" : "Enter your password",
+  "enter_name" : "Please enter a name.",
+  "add_transaction": "Add Transaction",
+  "new_item": "New Item?",
+  "details": "Details",
+  "price": "Price $",
+  "english": "English",
+  "arabic": "Arabic",
+  "french": "French",
+  "hindi": "Hindi",
+  "farsi": "Farsi",
+  "dark_mode": "Dark Mode",
+  "light_mode": "Light Mode",
+  "new_item_form_error": "Item can't be empty !",
+  "details_form_error": "Details can't be empty ! ",
+  "price_form_error": "Price can't be empty !"
+}
+

@@ -1,0 +1,24 @@
+{
+  "tagness": "Tagness",
+  "language_name": "Française",
+  "sign_in": "Se connecter",
+  "create_an_account" : "Créer un compte",
+  "enter_email": "S'il vous plaît entrer votre adresse e-mail",
+  "enter_password" : "Tapez votre mot de passe",
+  "enter_name" : "Nom ?",
+  "add_transaction": "Ajouter Transaction",
+  "new_item": "Nouvel article?",
+  "details": "Détails",
+  "price": "Prix $",
+  "english": "Anglais",
+  "arabic": "Arabe",
+  "french": "Française",
+  "hindi": "Hindi",
+  "farsi": "Farsi",
+  "dark_mode": "Mode Sombre",
+  "light_mode": "Mode D'éclairage",
+  "new_item_form_error": "Article ne peut pas être vide!",
+  "details_form_error": "Détails ne peut être vide!",
+  "price_form_error": "Prix ne peut pas être vide!"
+}
+

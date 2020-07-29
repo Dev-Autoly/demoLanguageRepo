@@ -1,0 +1,24 @@
+{
+  "tagness": "Tagness",
+  "language_name": "فارسی",
+  "sign_in": "ورود",
+  "create_an_account" : "ایجاد یک حساب کاربری",
+  "enter_email": "لطفا آدرس ایمیل خود را وارد کنید",
+  "enter_password" : "رمز عبور خود را وارد کنید",
+  "enter_name" : "نام",
+  "add_transaction": "اضافه کردن معامله",
+  "new_item": "گزینه جدید؟",
+  "details": "جزئیات",
+  "price": "قیمت $",
+  "english": "انگلیسی",
+  "arabic": "عربی",
+  "french": "فرانسوی",
+  "hindi": "هندی",
+  "farsi": "فارسی",
+  "dark_mode": "حالت تاریک",
+  "light_mode": "حالت نور",
+  "new_item_form_error": "مورد نمی تواند خالی باشد!",
+  "details_form_error": "اطلاعات نمی تواند خالی باشد!",
+  "price_form_error": "قیمت نمی تواند خالی باشد!"
+}
+

@@ -1,0 +1,24 @@
+{
+  "tagness": "Tagness",
+  "language_name": "हिन्दी",
+  "sign_in": "साइन इन करें",
+  "create_an_account" : "खाता बनाएं",
+  "enter_email": "कृपया अपना पूरा ईमेल दर्ज करें",
+  "enter_password" : "अपना पासवर्ड डालें",
+  "enter_name" : "नाम",
+  "add_transaction": "लेन-देन जोड़ें",
+  "new_item": "नई वस्तु?",
+  "details": "विवरण",
+  "price": "कीमत $",
+  "english": "अंग्रेज़ी",
+  "arabic": "अरबी",
+  "french": "फ्रेंच",
+  "hindi": "हिन्दी",
+  "farsi": "फारसी",
+  "dark_mode": "डार्क मोड",
+  "light_mode": "प्रकाश मोड",
+  "new_item_form_error": "मद खाली नहीं हो सकता!",
+  "details_form_error": "विवरण खाली नहीं हो सकता!",
+  "price_form_error": "मूल्य खाली नहीं हो सकता!"
+}
+
